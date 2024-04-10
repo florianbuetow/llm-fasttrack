@@ -165,4 +165,3 @@ In this section I keep track of all the articles, papers, and tutorials I want t
 - [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): The original paper that introduced the GPT-3 model.
 - [Hugging Face Transformers](https://huggingface.co/transformers/): A library of pre-trained models for NLP tasks.
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of resources for Large Language Models.
-- 
