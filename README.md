@@ -127,7 +127,27 @@ If you don't know how to program, I would recommend to take at least a short int
 - Tensors of different dimension and with different sizes can be created from Python lists, NumPy arrays, or random values.
 - The size and dimension of a tensor can be accessed using the `size()` and `dim()` methods.
 
+```python
+import torch
+my_tensor = torch.randn((2, 3, 4), dtype=torch.float)
+print("The dtype of my tensor a is:", my_tensor.dtype)
+print("The size of my tensor a is:", my_tensor.size())
+print("The shape of my tensor a is:", my_tensor.shape)
+print("The dims of my tensor a is:", my_tensor.dim())
+print("The dims of my tensor a is:", my_tensor.ndim)
+print("The number of elements in my tensor is:", my_tensor.numel())
+print("My tensor is stored on the GPU:", my_tensor.is_cuda)
+print("My tensor is stored on device:", my_tensor.device)
+```
+PyTorch offers different data types, choosing the right one is important because it will influence the memory usage and the performance. 
+Some PyTorch methods have requirements on the datatype of the tensor as well.
 
+| Data Type                | dtype                       | CPU tensor         | GPU tensor              |
+|--------------------------|-----------------------------|--------------------|-------------------------|
+| 32-bit floating point    | torch.float32/torch.float   | torch.FloatTensor  | torch.cuda.FloatTensor  |
+| 64-bit floating point    | torch.float64/torch.double  | torch.DoubleTensor | torch.cuda.DoubleTensor |
+| 8-bit integer (signed)   | torch.int16                 | torch.ShortTensor  | torch.cuda.ShortTensor  |
+| boolean                  | torch.bool                  | torch.BoolTensor   | torch.cuda.BoolTensor   |
 
 
 ---
