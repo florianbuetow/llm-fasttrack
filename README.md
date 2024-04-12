@@ -176,6 +176,7 @@ Up Next:
 - [How I got into deep learning](https://www.vikas.sh/post/how-i-got-into-deep-learning): Vikas Paruchuri's journey into deep learning and AI.
 
 Queue:
+- [From zero to GPT](https://github.com/VikParuchuri/zero_to_gpt?tab=readme-ov-file): A course by Vikas Paruchuri
 - [Neural Networks - From the ground up](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): YouTube series from 3Blue1Brown 
 - [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M): Chapter 5, Deep Learning
 - [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc&t=308s): Chapter 6, Deep Learning
@@ -190,3 +191,4 @@ Queue:
 - [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): The original paper that introduced the GPT-3 model.
 - [Hugging Face Transformers](https://huggingface.co/transformers/): A library of pre-trained models for NLP tasks.
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of resources for Large Language Models.
+- [Building a semantic search engine in Python](https://www.vikas.sh/post/semantic-search-guide) by Vikas Paruchuri
