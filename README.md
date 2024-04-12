@@ -192,3 +192,5 @@ Queue:
 - [Hugging Face Transformers](https://huggingface.co/transformers/): A library of pre-trained models for NLP tasks.
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of resources for Large Language Models.
 - [Building a semantic search engine in Python](https://www.vikas.sh/post/semantic-search-guide) by Vikas Paruchuri
+- [Deep Learning](https://www.deeplearningbook.org) a book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+- 
