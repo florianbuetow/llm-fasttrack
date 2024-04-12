@@ -193,4 +193,6 @@ Queue:
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of resources for Large Language Models.
 - [Building a semantic search engine in Python](https://www.vikas.sh/post/semantic-search-guide) by Vikas Paruchuri
 - [Deep Learning](https://www.deeplearningbook.org) a book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-- 
+- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth A. Aldo Faisal Cheng Soon Ong
+- [fast.ai](https://www.fast.ai) course(s) by Jeremy Howard
+- [Karpathy YouTube](https://www.youtube.com/@AndrejKarpathy) Karpathy videos
