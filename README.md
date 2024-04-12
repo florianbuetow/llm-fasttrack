@@ -171,6 +171,11 @@ Some PyTorch methods have requirements on the datatype of the tensor as well.
 
 In this section I keep track of all the articles, papers, and tutorials I want to go through.
 
+Up Next:
+
+- [How I got into deep learning](https://www.vikas.sh/post/how-i-got-into-deep-learning): Vikas Paruchuri's journey into deep learning and AI.
+
+Queue:
 - [Neural Networks - From the ground up](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): YouTube series from 3Blue1Brown 
 - [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M): Chapter 5, Deep Learning
 - [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc&t=308s): Chapter 6, Deep Learning
