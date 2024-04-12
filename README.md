@@ -166,16 +166,30 @@ Some PyTorch methods have requirements on the datatype of the tensor as well.
 | **Tokenizers**               |are tools that segment text into manageable pieces for processing by models, with different algorithms affecting model performance and output quality.                                                                                             |
 | **Rankers**                  |are algorithms used to order documents or predict their relevance to a query, influencing the selection of next words or sentences based on certain criteria in NLP applications.                                                                     |
 
+# Advice
+
+A collection of quotes, advice, and tips that I've found helpful in my learning journey.
+
+| Category      | Advice                                                                                                                                                                                               | Source                                                                    | 
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Study         | Join Discord communities where the latest (state of the art) papers and models are discussed                                                                                                         | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Study         | Despite transformers, [CNNs are still widely used](https://twitter.com/rasbt/status/1767561783382872194), and everything [old is new again with RNNs](https://arxiv.org/abs/2402.19427).             | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Coding        | You should get to a point where you can code up any of the main neural networks architectures in plain numpy (forward and backward passes)                                                           | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Training LLMs | The easiest entrypoint for training models these days is fine-tuning a base model. Huggingface transformers is great for finetuning because it implements a lot of models already, and uses PyTorch. | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Training LLMs | The easiest way to finetune is to pick a small model (7B or fewer params), and try fine-tuning with LoRA.                                                                                            | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Training LLMs | Understanding the fundamentals is important to training good models                                                                                                                                  | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Training LLMs | You don’t need a lot of GPUs for fine-tuning                                                                                                                                                         | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Impact        | Finetuning is a very crowded space, and it’s hard to make an impact when the state of the art changes every day.                                                                                     | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Impact        | Finding interesting problems to solve is the best way to make an impact with what you build                                                                                                          | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Impact | There are many niches in AI where you can make a big impact, even as a relative outsider.                                                                                                            | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
 
 # Reading List 
 
-In this section I keep track of all the articles, papers, and tutorials I want to go through.
+In this section I keep track of all the articles, papers, and tutorials I am reading to learn about LLMs.
 
-Up Next:
+**Inbox:**
 
-- [How I got into deep learning](https://www.vikas.sh/post/how-i-got-into-deep-learning): Vikas Paruchuri's journey into deep learning and AI.
-
-Queue:
+- [What are the recent trends in machine learning, deep learning, and AI](https://twitter.com/rasbt/status/1767561783382872194) - Sebastian Raschka
 - [From zero to GPT](https://github.com/VikParuchuri/zero_to_gpt?tab=readme-ov-file): A course by Vikas Paruchuri
 - [Neural Networks - From the ground up](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): YouTube series from 3Blue1Brown 
 - [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M): Chapter 5, Deep Learning
@@ -192,7 +206,36 @@ Queue:
 - [Hugging Face Transformers](https://huggingface.co/transformers/): A library of pre-trained models for NLP tasks.
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of resources for Large Language Models.
 - [Building a semantic search engine in Python](https://www.vikas.sh/post/semantic-search-guide) by Vikas Paruchuri
-- [Deep Learning](https://www.deeplearningbook.org) a book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+- [Deep Learning Book](https://www.deeplearningbook.org) a book by Ian Goodfellow and Yoshua Bengio and Aaron Courville **TIP**: Read only the first 2 parts, skip the 3rd.
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth A. Aldo Faisal Cheng Soon Ong
 - [fast.ai](https://www.fast.ai) course(s) by Jeremy Howard
 - [Karpathy YouTube](https://www.youtube.com/@AndrejKarpathy) Karpathy videos
+
+- [Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427): 
+- [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf): RNN attention
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Transformers
+- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961): Switch transformer
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685): LoRA
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929): Vision Transformer
+- [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101): AdamW
+- [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask): GPT-2
+- [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427): RNNs
+- [CNNs are still widely used](https://twitter.com/rasbt/status/1767561783382872194): Tweet by Sebastian Raschka
+
+**Archive:**
+
+- [How I got into deep learning](https://www.vikas.sh/post/how-i-got-into-deep-learning): Vikas Paruchuri's journey into deep learning and AI.
+
+# Resources
+
+Free ML Training Resources:
+
+- [Google Colaboratory](https://colab.research.google.com)
+- [Weights and Biases](https://wandb.ai/site)
+- [Huggingface Transformers](https://github.com/huggingface/transformers)
+
+Discord Servers:
+
+- [EleutherAI](https://discord.gg/BVwwHaeV)
+- [Nous Research](https://discord.gg/HhC3avAG)
+
