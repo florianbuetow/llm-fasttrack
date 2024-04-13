@@ -425,33 +425,23 @@ of of A with the vector.
 
 A collection of quotes, advice, and tips that I've found helpful in my learning journey.
 
-| Category | Advice                                                                                                                                                                                   | Source                                                                    |
-|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Study    | Study like there is nothing else to do in your life. Create a plan and stick to it no matter what. No change of directions and no second thoughts.                                       | [DL Insider](https://twitter.com/dl_insider)                              |
-| Study    | Join Discord communities where the latest (state of the art) papers and models are discussed                                                                                             | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
-| Study    | Despite transformers, [CNNs are still widely used](https://twitter.com/rasbt/status/1767561783382872194), and everything [old is new again with RNNs](https://arxiv.org/abs/2402.19427). | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
-| Study    | Learn from examples and create things along the path.                                                                                                                                    | [DL Insider](https://twitter.com/dl_insider)                              |
-| Study    | It can take years of hard study to master ML/DL math. And in the end it will help you only in 15% of the cases ... or less.                                                              | [DL Insider](https://twitter.com/dl_insider)                              |
-| Study    | Is is much easier to understand the models from an engineering perspective and then fill the gaps with math.                                                                             | [DL Insider](https://twitter.com/dl_insider)                              |
-
-| Coding | You should get to a point where you can code up any of the main neural networks architectures in plain
-numpy (forward and backward
-passes)                                                           | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
-| Training LLMs | The easiest entrypoint for training models these days is fine-tuning a base model. Huggingface
-transformers is great for finetuning because it implements a lot of models already, and uses
-PyTorch. | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
-| Training LLMs | The easiest way to finetune is to pick a small model (7B or fewer params), and try fine-tuning with
-LoRA. | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
-| Training LLMs | Understanding the fundamentals is important to training good
-models | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
-| Training LLMs | You don’t need a lot of GPUs for
-fine-tuning | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
-| Impact | Finetuning is a very crowded space, and it’s hard to make an impact when the state of the art changes every
-day. | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
-| Impact | Finding interesting problems to solve is the best way to make an impact with what you
-build | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
-| Impact | There are many niches in AI where you can make a big impact, even as a relative
-outsider. | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Category      | Advice                                                                                                                                                                                               | Source                                                                    |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Study         | Study like there is nothing else to do in your life. Create a plan and stick to it no matter what. No change of directions and no second thoughts.                                                   | [DL Insider](https://twitter.com/dl_insider)                              |
+| Study         | Join Discord communities where the latest (state of the art) papers and models are discussed                                                                                                         | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Study         | Despite transformers, [CNNs are still widely used](https://twitter.com/rasbt/status/1767561783382872194), and everything [old is new again with RNNs](https://arxiv.org/abs/2402.19427).             | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Study         | Learn from examples and create things along the path.                                                                                                                                                | [DL Insider](https://twitter.com/dl_insider)                              |
+| Study         | It can take years of hard study to master ML/DL math. And in the end it will help you only in 15% of the cases ... or less.                                                                          | [DL Insider](https://twitter.com/dl_insider)                              |
+| Study         | Is is much easier to understand the models from an engineering perspective and then fill the gaps with math.                                                                                         | [DL Insider](https://twitter.com/dl_insider)                              |
+| Study         | It is much easier to learn ML as an SWE than the other way around                                                                                                                                    | [Greg Brockman](https://twitter.com/gdb/status/1729893902814192096)       |"
+| Coding        | You should get to a point where you can code up any of the main neural networks architectures in plain numpy (forward and backward passes)                                                           | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Training LLMs | The easiest entrypoint for training models these days is fine-tuning a base model. Huggingface transformers is great for finetuning because it implements a lot of models already, and uses PyTorch. | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Training LLMs | The easiest way to finetune is to pick a small model (7B or fewer params), and try fine-tuning with LoRA.                                                                                            | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Training LLMs | Understanding the fundamentals is important to training good models                                                                                                                                  | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Training LLMs | You don’t need a lot of GPUs for  fine-tuning                                                                                                                                                        | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Impact        | Finetuning is a very crowded space, and it’s hard to make an impact when the state of the art changes every day.                                                                                     | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Impact        | Finding interesting problems to solve is the best way to make an impact with what you build                                                                                                          | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
+| Impact        | There are many niches in AI where you can make a big impact, even as a relative outsider.                                                                                                            | [Vikas Paruchuri](https://www.vikas.sh/post/how-i-got-into-deep-learning) |
 
 # Reading List
 
@@ -465,6 +455,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 
 - [18.06SC | Fall 2011 | Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/)
   lectures by Gilbert Strang
+- [Thinking Like Transformers](https://srush.github.io/raspy/)
 - [The Essence of Linear Algebra Videos](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB)
   and [as text](https://www.3blue1brown.com/topics/linear-algebra) YouTube playlist/course by 3Blue1Brown
 - [Central Limit Theorem](https://www.youtube.com/watch?v=zeJD6dqJ5lo&list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&pp=iAQB)
@@ -479,6 +470,8 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
   Karpathy
 - [What are the recent trends in machine learning, deep learning, and AI](https://twitter.com/rasbt/status/1767561783382872194):
   bySebastian Raschka
+- [Retrieval-Augmented Generation (RAG) Made Simple & 2 How To Tutorials](https://spotintelligence.com/2023/10/19/retrieval-augmented-generation-rag/)
+- [The 2024 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com)
 - [From zero to GPT](https://github.com/VikParuchuri/zero_to_gpt?tab=readme-ov-file): A course by Vikas Paruchuri
 - [Neural Networks - From the ground up](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi):
   YouTube series from 3Blue1Brown
@@ -508,12 +501,13 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Building a semantic search engine in Python](https://www.vikas.sh/post/semantic-search-guide) by Vikas Paruchuri
 - [Deep Learning Book](https://www.deeplearningbook.org) a book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
   **TIP**: Read only the first 2 parts, skip the 3rd.
-- [The Principles of Deep Learning Theory - An Effective Theory Approach to Understanding Neural Networks](https://arxiv.org/abs/2106.10165) by Daniel A. Roberts and Sho Yaida
+- [The Principles of Deep Learning Theory - An Effective Theory Approach to Understanding Neural Networks](https://arxiv.org/abs/2106.10165)
+  by Daniel A. Roberts and Sho Yaida
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth A. Aldo
   Faisal Cheng Soon Ong
 - [fast.ai](https://www.fast.ai) course(s) by Jeremy Howard
 - [Karpathy YouTube](https://www.youtube.com/@AndrejKarpathy) Karpathy videos
-- [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102) 
+- [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
 - [Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427):
 - [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf): RNN
   attention
@@ -529,12 +523,17 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427):
   RNNs
 - [CNNs are still widely used](https://twitter.com/rasbt/status/1767561783382872194): Tweet by Sebastian Raschka
-- [Super Easy Way to Get Sentence Embedding using fastText in Python](https://towardsdatascience.com/super-easy-way-to-get-sentence-embedding-using-fasttext-in-python-a70f34ac5b7c) Medium Article
-- [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html) by Chip Huyen
-- [Chip Huyen - Blog](https://huyenchip.com/blog/) 
+- [Super Easy Way to Get Sentence Embedding using fastText in Python](https://towardsdatascience.com/super-easy-way-to-get-sentence-embedding-using-fasttext-in-python-a70f34ac5b7c)
+  Medium Article
+- [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
+  by Chip Huyen
+- [Chip Huyen - Blog](https://huyenchip.com/blog/)
 - [](https://huyenchip.com/ml-interviews-book/)  by Chip Huyen
-- [Designing Machine Learning Systems - Book](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by Chip Huyen
-- []()
+- [Designing Machine Learning Systems - Book](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+  by Chip Huyen
+- [Stanford MLSys Seminars](https://www.youtube.com/@StanfordMLSysSeminars) on YouTube
+- [Where does AI come from, and where is it heading?](https://databigandsmall.com/2023/10/04/where-does-ai-come-from-and-where-is-it-heading/) -
+  Data Big and Small
 
 # Resources
 
