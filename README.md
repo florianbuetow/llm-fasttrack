@@ -233,6 +233,10 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 
 **Inbox:**
 
+- [The Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB) YouTube playlist/course by 3Blue1Brown
+- [Central Limit Theorem](https://www.youtube.com/watch?v=zeJD6dqJ5lo&list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&pp=iAQB) by 3Blue1Brown
+- [Neural Networks (incl Transformers)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB) by 3Blue1Brown
+- [Probabilities of Probabilities](https://www.youtube.com/watch?v=8idr1WZ1A7Q&list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp&pp=iAQB) by 3Blue1Brown
 - [Broadcasting in Python (C1W2L15)](https://www.youtube.com/watch?v=tKcLaGdvabM): YT Video by Andrew Ng
 - [Intro to Deep Learning and Generative Models Course](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51):
   by Sebastian Raschka
