@@ -449,6 +449,8 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 
 **Next Up:**
 
+- [The Essence of Linear Algebra Videos](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB)
+  and [as text](https://www.3blue1brown.com/topics/linear-algebra) YouTube playlist/course by 3Blue1Brown
 - [Broadcasting in Python (C1W2L15)](https://www.youtube.com/watch?v=tKcLaGdvabM): YT Video by Andrew Ng
 
 **Inbox:**
@@ -456,8 +458,6 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [18.06SC | Fall 2011 | Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/)
   lectures by Gilbert Strang
 - [Thinking Like Transformers](https://srush.github.io/raspy/)
-- [The Essence of Linear Algebra Videos](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB)
-  and [as text](https://www.3blue1brown.com/topics/linear-algebra) YouTube playlist/course by 3Blue1Brown
 - [Central Limit Theorem](https://www.youtube.com/watch?v=zeJD6dqJ5lo&list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&pp=iAQB)
   by 3Blue1Brown
 - [Neural Networks (incl Transformers)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB)
@@ -534,6 +534,9 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Stanford MLSys Seminars](https://www.youtube.com/@StanfordMLSysSeminars) on YouTube
 - [Where does AI come from, and where is it heading?](https://databigandsmall.com/2023/10/04/where-does-ai-come-from-and-where-is-it-heading/) -
   Data Big and Small
+- [PyTorch DL Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) by DataCamp
+- [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) by PyTorch
+- [Deep Learning with torch:: CHEAT SHEET](https://rstudio.github.io/cheatsheets/torch.pdf) by rstudio.com
 
 # Resources
 
