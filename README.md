@@ -182,10 +182,11 @@ same time.
 
 #### Study Resources
 
-| Category | Title                                                                                        | Comment                                |
-|----------|----------------------------------------------------------------------------------------------|----------------------------------------|
-| Coding   | 4.3 Vectors, Matrices, and [Broadcasting](https://www.youtube.com/watch?v=4Ehb_is-MFU)       | A YouTube video by Sebastian Raschka   |
-| Coding   | [Broadcasting Semantics](https://pytorch.org/docs/stable/notes/broadcasting.html) in PyTorch | Explains how/when broadcasting happens |
+| Category | Title                                                                                        | Comment                                              |
+|----------|----------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Coding   | 4.3 Vectors, Matrices, and [Broadcasting](https://www.youtube.com/watch?v=4Ehb_is-MFU)       | A YouTube video by Sebastian Raschka                 |
+| Coding   | [Broadcasting Semantics](https://pytorch.org/docs/stable/notes/broadcasting.html) in PyTorch | Explains how/when broadcasting happens               |
+| Coding   | [PyTorch Tensor Basics](https://jaketae.github.io/study/pytorch-tensor/)                     | Basic tensor operations in PyTorch with explanations | 
 
 # II. Learning about to LLMs
 
