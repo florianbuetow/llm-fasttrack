@@ -538,6 +538,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [PyTorch DL Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) by DataCamp
 - [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) by PyTorch
 - [Deep Learning with torch:: CHEAT SHEET](https://rstudio.github.io/cheatsheets/torch.pdf) by rstudio.com
+- [LLM Visualised](https://bbycroft.net/llm) an interactive/animated LLM visualisation
 
 # Resources
 
@@ -551,4 +552,3 @@ Discord Servers:
 
 - [EleutherAI](https://discord.gg/BVwwHaeV)
 - [Nous Research](https://discord.gg/HhC3avAG)
-
