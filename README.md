@@ -539,7 +539,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) by PyTorch
 - [Deep Learning with torch:: CHEAT SHEET](https://rstudio.github.io/cheatsheets/torch.pdf) by rstudio.com
 - [LLM Visualised](https://bbycroft.net/llm) an interactive/animated LLM visualisation
-
+- [torchtune - Easily fine-tune LLMS using PyTorch](https://pytorch.org/blog/torchtune-fine-tune-llms/?utm_content=289842552&utm_medium=social) on pytorch.com
 # Resources
 
 Free ML Training Resources:
