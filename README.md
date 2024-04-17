@@ -540,6 +540,8 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Deep Learning with torch:: CHEAT SHEET](https://rstudio.github.io/cheatsheets/torch.pdf) by rstudio.com
 - [LLM Visualised](https://bbycroft.net/llm) an interactive/animated LLM visualisation
 - [torchtune - Easily fine-tune LLMS using PyTorch](https://pytorch.org/blog/torchtune-fine-tune-llms/?utm_content=289842552&utm_medium=social) on pytorch.com
+- [Quantization Fundamentals](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/) with Huggingface
+
 # Resources
 
 Free ML Training Resources:
