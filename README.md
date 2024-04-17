@@ -199,12 +199,6 @@ same time.
 - **Language Modeling**: Unsupervised learning, predicting the next word, understanding context.
 - **Evaluation Metrics**: Perplexity, BLEU score, ROUGE, F1 score, accuracy, precision, recall.
 
-## Chapter Overview
-
-## 2.1 Transformer Models
-
-### Study Notes
-
 ## Basics of Transformers
 
 **Q: What are homogenized models, and why are transformers homogenized models?**  
