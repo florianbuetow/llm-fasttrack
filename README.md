@@ -190,6 +190,7 @@ same time.
 
 # II. Learning about to LLMs
 
+- **Transformer models**
 - **Architecture of Transformer Models**: Attention mechanisms, multi-head attention, positional encoding, feed-forward
   networks.
 - **Pre-trained Models Overview**: GPT (Generative Pre-trained Transformer), BERT (Bidirectional Encoder Representations
@@ -197,6 +198,57 @@ same time.
 - **Tokenization and Embeddings**: WordPiece, SentencePiece, BPE (Byte Pair Encoding), contextual embeddings.
 - **Language Modeling**: Unsupervised learning, predicting the next word, understanding context.
 - **Evaluation Metrics**: Perplexity, BLEU score, ROUGE, F1 score, accuracy, precision, recall.
+
+## Chapter Overview
+
+## 2.1 Transformer Models
+
+### Study Notes
+
+## Basics of Transformers
+
+**Q: What are homogenized models, and why are transformers homogenized models?**  
+A: Homogenized models are designed to be highly adaptable across a wide range of tasks without needing specific task-oriented tuning. Transformers are considered homogenized models because they use the same model architecture to perform various NLP tasks effectively, leveraging their ability to process sequences of data in parallel and understand context without task-specific adjustments.
+
+**Q: What are foundation models in the context of transformers?**  
+A: A foundation model is a model that has been trained on billions of records and has billions of parameters. These models can then perform a wide range of tasks without any further fine-tuning.
+
+**Q: When should one use traditional NLP methods, and when are transformers the better choice for NLP tasks?**  
+A: Traditional NLP methods are useful when working with smaller datasets or when computational resources are limited. They are also beneficial when the tasks require simpler models that can be more easily interpreted. Transformers are better when dealing with large datasets, require understanding of context, or when the tasks benefit from deeper, more complex patterns in the data.
+
+**Q: What are transformer models in the context of Industry 4.0?**  
+A: In Industry 4.0, transformer models are used for automating complex decision-making processes by analyzing vast amounts of data from various sources such as sensors, machines, and production lines. They enhance predictive maintenance, quality control, and supply chain management through advanced NLP and machine learning techniques.
+
+**Q: Why do we say that a feature of transformers is a high-level of homogenization?**  
+A: Transformers exhibit a high level of homogenization because they apply the same architecture to process various types of data across multiple tasks, enabling consistent performance and facilitating machine-to-machine connections in dynamic environments like Industry 4.0.
+
+**Q: What are some examples of foundation models?**  
+A: Examples of foundation models include GPT-3 by OpenAI, Google's BERT, Facebook’s RoBERTa, and Microsoft’s Turing-NLG.
+
+**Q: Why can it be that some models do not reach the homogenization level of foundation models?**  
+A: Some models may not achieve the homogenization level of foundation models due to limitations in training data diversity, computational resources, or insufficient training methodologies that prevent the models from generalizing well across different tasks.
+
+**Q: What is a stochastic model, and how does that relate to LLMs?**  
+A: A stochastic model in the context of LLMs (large language models) like Codex refers to their probabilistic nature in generating outputs. This means they use randomness in their processes to generate varied results, which can be useful for tasks like code generation where multiple correct solutions can exist.
+
+**Q: What is a sequence model?**  
+A: A sequence model is a type of AI model that processes sequences of data, such as sentences or time series, where the order of the input data is important. It learns to predict elements in the sequence, understand context, or generate new sequences based on learned patterns.
+
+**Q: In the context of NLP, what are Markov Chains and Markov (decision) processes, what are they used for?**  
+A: In NLP, Markov Chains are used to model the probabilities of sequences of words or phrases, assuming that the probability of each item depends only on the previous item. Markov decision processes extend this concept into decision making, where transitions between states are decided not only based on the state but also the action taken, useful in conversational agents and other sequential decision-making tasks.
+
+**Q: What are RNNs good for or used for? Give examples.**  
+A: RNNs (Recurrent Neural Networks) are particularly good for tasks where the order and context of the input data matter, such as text generation, speech recognition, and time series prediction. They excel in handling sequences where the current input depends on the previous one.
+
+**Q: Can CNNs be applied to text? How?**  
+A: Yes, CNNs (Convolutional Neural Networks) can be applied to text by treating segments of words or characters as spatial dimensions, similar to how they treat regions in an image. This allows them to identify patterns like word groupings and sentence fragments, useful in tasks like sentiment analysis and topic classification.
+
+**Q: What is LeNet-5 from Yann LeCun, and why is it well known?**  
+A: LeNet-5, developed by Yann LeCun, is one of the earliest convolutional neural networks that significantly influenced the development of deep learning. It was initially designed for digit recognition and is well-known for demonstrating the effectiveness of CNNs in practical applications, leading to the broader adoption of deep learning in many fields.
+
+**Q: Why can't CNNs deal well with long term dependencies in long and/or complex sequences of text?**  
+A: CNNs struggle with long-term dependencies in text because their convolutional filters typically capture local patterns within a fixed window size, making it difficult to maintain contextual information over longer text sequences without extensive layering or large receptive fields, which can be computationally inefficient.
+
 
 # III. Mathematical Foundations
 
