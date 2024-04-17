@@ -76,21 +76,6 @@ to a point where you can code up any of the main neural networks architectures i
 Since PyTorch tensors are very similar to numpy arrays, this will be my goal. And now lets get good with PyTorch
 tensors.
 
-### Chapter Overview
-
-1.1.1 **PyTorch Basics**: Tensors, Operations, Autograd system for automatic differentiation, CUDA tensors for GPU
-acceleration.
-
-1.1.2. **Neural Networks in PyTorch**: Using `torch.nn`, defining layers, forward pass, loss functions, and optimizers.
-
-1.1.3. **Working with Data**: Datasets, DataLoaders, data preprocessing, and augmentation techniques.
-
-1.1.4. **Model Training and Validation**: Batching, training loops, validation, overfitting, underfitting, and
-regularization
-techniques.
-
-1.1.5. **Saving and Loading Models**: Checkpoints, saving best models, and model inference.
-
 ## 1.1. PyTorch Basics
 
 ### 1.1.1. PyTorch Tensors vs Numpy (Arrays)
@@ -161,9 +146,7 @@ Since we are going to get good with LLMs, PyTorch sounds just like what we need.
 
 ### PyTorch Tensors
 
-I created a Jupyter
-Notebook [001-pytorch-tensors.ipynb](https://github.com/florianbuetow/llm-fasttrack/blob/main/notebooks/001-pytorch-tensors.ipynb)
-that contains all of my basic experiments with PyTorch tensors.
+I created a Jupyter Notebook [001-pytorch-tensors.ipynb](https://github.com/florianbuetow/llm-fasttrack/blob/main/notebooks/001-pytorch-tensors.ipynb) that contains all of my basic experiments with PyTorch tensors.
 
 ### Study Notes
 
@@ -337,72 +320,6 @@ of of A with the vector.
 | How can Gaussian Elimination fail?                                       | It can fail primarily due to zero pivots that cannot be replaced by row swaps. This often occurs when there is linear dependence among the rows, leading either to no solution (inconsistent system) or to a system with infinitely many solutions (underdetermined system). |
 | What does it mean when we find a zero pivot during Gaussian Elimination? | That we have linear dependent rows or columns. Meaning there are either zero or infinitely many solutions to the system of equations.                                                                                                                                        |
 
-**3.1.3. Multiplication and Inverse Matrices**
-
-**3.1.4. Factorization into A = LU**
-
-**3.1.5. Transposes, Permutations, Spaces R^n**
-
-**3.1.6. Column Space and Nullspace**
-
-**3.1.7. Solving Ax = 0: Pivot Variables, Special Solutions**
-
-**3.1.8. Solving Ax = b: Row Reduced Form R**
-
-**3.1.9. Independence, Basis, and Dimension**
-
-**3.1.10. The Four Fundamental Subspaces**
-
-**3.1.11. Matrix Spaces; Rank 1; Small World Graphs**
-
-**3.1.12. Graphs, Networks, Incidence Matrices**
-
-**3.1.13. Quiz 1 Review**
-
-**3.1.14. Orthogonal Vectors and Subspaces**
-
-**3.1.15. Projections onto Subspaces**
-
-**3.1.16. Projection Matrices and Least Squares**
-
-**3.1.17. Orthogonal Matrices and Gram-Schmidt**
-
-**3.1.18. Properties of Determinants**
-
-**3.1.19. Determinant Formulas and Cofactors**
-
-**3.1.20. Cramer's Rule, Inverse Matrix, and Volume**
-
-**3.1.21. Eigenvalues and Eigenvectors**
-
-**3.1.22. Diagonalization and Powers of A**
-
-**3.1.23. Differential Equations and exp(At)**
-
-**3.1.24. Markov Matrices; Fourier Series**
-
-**3.1.24b. Quiz 2 Review**
-
-**3.1.25. Symmetric Matrices and Positive Definiteness**
-
-**3.1.26. Complex Matrices; Fast Fourier Transform**
-
-**3.1.27. Positive Definite Matrices and Minima**
-
-**3.1.28. Similar Matrices and Jordan Form**
-
-**3.1.29. Singular Value Decomposition**
-
-**3.1.30. Linear Transformations and Their Matrices**
-
-**3.1.31. Change of Basis; Image Compression**
-
-**3.1.33. Left and Right Inverses; Pseudoinverse**
-
-**3.1.32. Quiz 3 Review**
-
-**3.1.34. Final Course Review**
-
 #### Study Resources
 
 | Category | Title                                                                                                                                                                 | Comment                 |
@@ -411,45 +328,6 @@ of of A with the vector.
 | Math     | MIT OCW Lecture 1 [The Geometry of Linear Equations](https://www.youtube.com/watch?v=J7DzL2_Na80&list=PL221E2BBF13BECF6C&index=3)                                     | by Prof. Gilbert Strang |
 | Math     | MIT OCW Lecture 2 [Elimination with Matrices](https://www.youtube.com/watch?v=QVKj3LADCnA)                                                                            | by Prof. Gilbert Strang |
 | Math     | MIT OCW Lecture 3 [Multiplication and Inverse Matrices](https://www.youtube.com/watch?v=FX4C-JpTFgY)                                                                  | by Prof. Gilbert Strang | 
-
-2. **Calculus**:
-    - **Derivatives and Gradients**: Essential for understanding the backpropagation algorithm and how neural networks
-      learn by minimizing loss functions.
-    - **Partial Derivatives and Chain Rule**: Crucial for training models using gradient descent and for understanding
-      the autograd system in PyTorch.
-
-3. **Probability and Statistics**:
-    - **Probability Theory**: Basics including probability distributions, expectations, variance, and covariance.
-    - **Bayesian Methods**: Understanding how prior knowledge is updated with evidence using Bayes' theorem is critical
-      for some models and applications.
-    - **Statistical Measures**: Mean, median, mode, standard deviation, and their importance in data preprocessing and
-      understanding model performance.
-
-4. **Optimization Theory**:
-    - **Convex Optimization**: While not all problems in deep learning are convex, the concepts are foundational and
-      help in understanding various optimization algorithms.
-    - **Gradient Descent and Variants**: Deep dive into how gradient descent works, including its variants like
-      stochastic gradient descent (SGD), Adam, etc.
-    - **Loss Functions**: Understanding different types of loss functions and their applications in training neural
-      networks.
-
-5. **Information Theory**:
-    - **Entropy and Information Content**: Basic concepts of information theory that underpin many models' objective
-      functions.
-    - **Cross-Entropy and KL Divergence**: Important for understanding the loss functions used in training
-      classification models and generative models.
-
-6. **Discrete Mathematics**:
-    - **Graph Theory**: Useful for understanding attention mechanisms and data structures that represent relationships
-      and interactions in data.
-    - **Combinatorics**: Foundations for understanding the complexity of model architectures and for tasks such as
-      sequence generation.
-
-7. **Numerical Methods**:
-    - **Numerical Stability and Conditioning**: Important for training models, especially to understand and mitigate
-      issues like vanishing or exploding gradients.
-    - **Matrix Decompositions**: Techniques such as singular value decomposition (SVD) and QR decomposition, which are
-      useful for certain optimization problems and understanding deep learning models.
 
 # IV. Fine-Tuning and Optimising LLMs
 
