@@ -254,6 +254,69 @@ A: CNNs struggle with long-term dependencies in text because their convolutional
 patterns within a fixed window size, making it difficult to maintain contextual information over longer text sequences
 without extensive layering or large receptive fields, which can be computationally inefficient.
 
+**Q: Are there recurrences in transformer models?**
+A: No, recurrence has been abandoned in the transformer architecture.
+
+**Q: What type of architecture is a transformer?**
+A: An encoder-decoder architecture.
+
+**Q: What is the encoder, and what is the decoder responsible for in a transformer?**
+A: The encoder is responsible for creating a rich context representation of the input text, and the decoder is responsible for using that to generate the next output based on the previous outputs.
+
+**Q: What replaced the recurrence functions of RNNs, LSTMs, CNNs in transformers?**
+A: The attention mechanism has replaced the recurrence functions.
+
+**Q: How many layers did the encoder stack of the original transformer have (from Attention is all you need paper)?**
+A: The encoder consisted of 6 layers, each one featuring an attention sublayer and a feed forward sublayer and a normalization sublayer between.
+
+**Q: What is a difference between the encoder and decoder stack?**
+A: The decoder stack features an additional masked multi head attention sublayer.
+
+**Q: What is multi head attention?**
+A: Transformers have multiple (8) attention heads that can process in parallel. 
+
+**Q: What do the attention mechanisms learn?**
+A: Each attention mechanism learns different perspectives of the same input sequence.
+
+**Q: With what has recurrence been replaced in transformer models?**
+A: The recurrence we know from RNNs and LSTMs has been replaced by the attention mechanism in transformers.
+
+**Q: Are the layers in the encoder stack of the original transformer identical?**
+A: Yes, each layer consists of sublayers (multi-head attention + feedforward sublayer) except the first layer also has an embedding layer that combines the input embedding with positional encoding of the inputs before feeding it into the 1st layer.
+
+**Q: Why do we speak of self-attention when we talk about transformers?**
+A: Because we are using the query against past keys. This is self-attention.
+
+**Q: What is the motivation for the architecture of the transformer model?**
+A: To allow an industrial approach to deep learning. For the start, it perfectly fits hardware optimization requirements. For example, the stack structure of transformers allows for design of domain-specific optimized hardware that requires less floating-point precision.
+
+**Q: What is a stack in the context of transformer architectures?**
+A: A Stack consists of n layers in the NNL. A stack can either be an encoder or a decoder. A stack runs from the bottom (layer 1) to the top (layer n). And during that process, each layer learns something that it passes on to the next layer. Similar to how human memory works.
+
+**Q: What are sublayers?**
+A: Each layer in a stack contains sublayers. The structure of the sublayers of different layers is the same (great for hardware optimization). In the original transformer paper, the sublayers were a self-attention sublayer and a feedforward network sublayer, processed int hat order.  The self-attention sublayer was specifically designed for NLP and hardware optimizations. 
+
+**Q: What are attention heads?**
+A: Each self-attention sublayer is divided into n independent and identical layers called "heads". The original transformer architecture contained 8 heads in the self-attention sublayer of every layer.
+Each of the heads can be processed independently of each other, ideal for parallelization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # III. Mathematical Foundations
 
 Foundational and advanced mathematical concepts that underpin the workings of Large Language Models (LLMs), especially
