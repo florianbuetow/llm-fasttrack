@@ -625,6 +625,14 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Where does AI come from, and where is it heading?](https://databigandsmall.com/2023/10/04/where-does-ai-come-from-and-where-is-it-heading/) -
   Data Big and Small
 - [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
+- [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
+- [Tracking Progress in Natural Language Processing](https://nlpprogress.com)
+- [Yann LeCun & Alfredo Canziani - DEEP LEARNING NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/NYU-DLSP21/)
+- [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) by HuggingFace
+- [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
+- [A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp)
+- [Curated papers/blogs, guides, and interviews with ML practitioners.](https://applyingml.com)
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 
 # Resources
 
