@@ -471,6 +471,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 
 **Inbox:**
 
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 - [18.06SC | Fall 2011 | Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/)
   lectures by Gilbert Strang
 - [](https://huyenchip.com/ml-interviews-book/)  by Chip Huyen
