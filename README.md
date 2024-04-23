@@ -300,21 +300,18 @@ A: Each layer in a stack contains sublayers. The structure of the sublayers of d
 A: Each self-attention sublayer is divided into n independent and identical layers called "heads". The original transformer architecture contained 8 heads in the self-attention sublayer of every layer.
 Each of the heads can be processed independently of each other, ideal for parallelization.
 
+**Q: What is an autoregressive language model?**
+A: An autoregressive language model is a type of artificial intelligence model that generates text by predicting one word at a time, based on the previous words in the sequence. This approach is called "autoregressive" because it uses its own previous outputs as inputs for future predictions.
 
+**Q: What is an example of an autoregressive language model?**
+A: GPT-3 (Generative Pre-trained Transformer 3) by OpenAI is an example of an autoregressive language model that generates human-like text by predicting the next word in a sequence based on the context of the previous words.
+ 
+**Q: What is the difference between autoregressive and non-autoregressive language models?**
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
+**Q: What is the MMLU Benchmark?**
+A: The MMLU Benchmark (Massive Multi-task Language Understanding) is a comprehensive evaluation is a challenging test designed to measure a text model's multitask accuracy by evaluating models in zero-shot and few-shot settings. The MMLU serves as a standardized way to assess AI performance on tasks that range from simple math to complex legal reasoning. The MMLU contains 57 tasks across topics including elementary mathematics, US history, computer science, and law. It requires models to demonstrate a broad knowledge base and problem-solving skills.
 
 
 # III. Mathematical Foundations
@@ -472,6 +469,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 **Inbox:**
 
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
+- [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300))
 - [18.06SC | Fall 2011 | Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/)
   lectures by Gilbert Strang
 - [](https://huyenchip.com/ml-interviews-book/)  by Chip Huyen
