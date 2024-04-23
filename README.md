@@ -462,50 +462,42 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 
 **Next Up:**
 
-- [The Essence of Linear Algebra Videos](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB)
-  and [as text](https://www.3blue1brown.com/topics/linear-algebra) YouTube playlist/course by 3Blue1Brown
-- [Broadcasting in Python (C1W2L15)](https://www.youtube.com/watch?v=tKcLaGdvabM): YT Video by Andrew Ng
 
 **Inbox:**
 
-- [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
-- [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300))
-- [18.06SC | Fall 2011 | Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/)
-  lectures by Gilbert Strang
+- [18.06SC | Fall 2011 | Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/) lectures by Gilbert Strang
 - [](https://huyenchip.com/ml-interviews-book/)  by Chip Huyen
+- [A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp)
 - [A prompt for your thoughts: Prompt-based learning](https://www.reinfer.io/blog/prompt-based-learning)
 - [AllenNLP](https://allenai.org/allennlp/software/allennlp-library) A library and platform that provides transformer models for various NLP tasks. (Has a free EDU API)
-- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929): Vision
-  Transformer
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929): Vision Transformer
 - [An Overview for Text Representations in NLP](https://towardsdatascience.com/an-overview-for-text-representations-in-nlp-311253730af1)
 - [Applied AI: Building NLP Apps with Hugging Face Transformers](https://www.linkedin.com/learning/applied-ai-building-nlp-apps-with-hugging-face-transformers)
-- [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc&t=308s): Chapter 6, Deep
-  Learning
+- [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc&t=308s): Chapter 6, Deep Learning
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Transformers
 - [Awesome Resource for NLP](https://github.com/pawangeek/Deep-NLP-Resources?fbclid=IwAR1h6CHbAB8gPZHazYGqi3bGbN1W9sumIJJFtQs4Nh1qfAw3-4Q2abwi75U)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of resources for Large Language Models.
 - [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom)
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)
+- [Broadcasting in Python (C1W2L15)](https://www.youtube.com/watch?v=tKcLaGdvabM): YT Video by Andrew Ng
 - [Building a news aggregator from scratch: news filtering, classification, grouping in threads and ranking](https://towardsdatascience.com/building-a-news-aggregator-from-scratch-news-filtering-classification-grouping-in-threads-and-7b0bbf619b68)
 - [Building a semantic search engine in Python](https://www.vikas.sh/post/semantic-search-guide) by Vikas Paruchuri
 - [Building a sentence embedding index with fastText and BM25](https://towardsdatascience.com/building-a-sentence-embedding-index-with-fasttext-and-bm25-f07e7148d240)
-- [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M): Chapter 5, Deep
-  Learning
-- [Central Limit Theorem](https://www.youtube.com/watch?v=zeJD6dqJ5lo&list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&pp=iAQB)
-  by 3Blue1Brown
+- [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M): Chapter 5, Deep Learning
+- [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
+- [Central Limit Theorem](https://www.youtube.com/watch?v=zeJD6dqJ5lo&list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8&pp=iAQB) by 3Blue1Brown
 - [Chip Huyen - Blog](https://huyenchip.com/blog/)
 - [CNNs are still widely used](https://twitter.com/rasbt/status/1767561783382872194): Tweet by Sebastian Raschka
-- [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) by Stanford
-  University
+- [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) by Stanford University
+- [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
+- [Curated papers/blogs, guides, and interviews with ML practitioners.](https://applyingml.com)
 - [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained)
 - [Day 1 of 60 Days of Deep Learning with Projects Series](https://medium.com/coders-mojo/day-1-of-60-days-of-deep-learning-with-projects-series-4a5caa305cf6)
 - [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101): AdamW
-- [Deep Learning Book](https://www.deeplearningbook.org) a book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-  **TIP**: Read only the first 2 parts, skip the 3rd.
+- [Deep Learning Book](https://www.deeplearningbook.org) a book by Ian Goodfellow and Yoshua Bengio and Aaron Courville **TIP**: Read only the first 2 parts, skip the 3rd.
 - [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) by Google
 - [Deep Learning with torch:: CHEAT SHEET](https://rstudio.github.io/cheatsheets/torch.pdf) by rstudio.com
-- [Designing Machine Learning Systems - Book](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
-  by Chip Huyen
+- [Designing Machine Learning Systems - Book](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by Chip Huyen
 - [Efficient Transformers: A Survey](https://www.arxiv-vanity.com/papers/2009.06732/)
 - [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
 - [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
@@ -513,17 +505,13 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Evaluating LLMs Trained on Code](https://arxiv.org/abs/2107.03374)
 - [Extending Context Length in Large Language Models](https://towardsdatascience.com/extending-context-length-in-large-language-models-74e59201b51f)
 - [fast.ai](https://www.fast.ai) course(s) by Jeremy Howard
-- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api)
-  by Huggingface
+- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api) by Huggingface
 - [From zero to GPT](https://github.com/VikParuchuri/zero_to_gpt?tab=readme-ov-file): A course by Vikas Paruchuri
 - [Getting Started With Embeddings](https://huggingface.co/blog/getting-started-with-embeddings) by Huggingface
 - [Getting started with Transformers and TPU using PyTorch](https://www.philschmid.de/getting-started-tpu-transformers)
-- [GPT-2: Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf):
-  The original paper that introduced the GPT-2 model.
-- [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): The original paper that introduced
-  the GPT-3 model.
-- [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427):
-  RNNs
+- [GPT-2: Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf): The original paper that introduced the GPT-2 model.
+- [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): The original paper that introduced the GPT-3 model.
+- [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427): RNNs
 - [How to Build a Semantic Search Engine With Transformers and Faiss](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
 - [How to Differentiate Between Scaling, Normalization, and Log Transformations](https://towardsdatascience.com/how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94?source=social.tw&gi=c244317ce38c)
 - [How to implement Q&A against your documentation with GPT3, embeddings and Datasette](https://simonwillison.net/2023/Jan/13/semantic-search-answers/)
@@ -531,51 +519,42 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
 - [Hugging Face Transformers](https://huggingface.co/transformers/): A library of pre-trained models for NLP tasks.
 - [Implemented Deep Learning Projects](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046)
-- [Intro to Deep Learning and Generative Models Course](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51):
-  by Sebastian Raschka
+- [Intro to Deep Learning and Generative Models Course](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51): by Sebastian Raschka
 - [Karpathy YouTube](https://www.youtube.com/@AndrejKarpathy) Karpathy videos
 - [Language Identification from Very Short Strings](https://machinelearning.apple.com/research/language-identification-from-very-short-strings)
 - [Language Models and Contextualised Word Embeddings](http://www.davidsbatista.net/blog/2018/12/06/Word_Embeddings/)
-- [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask):
-  GPT-2
-- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY): by Andrej
-  Karpathy
-- [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE&t=1s&ab_channel=AndrejKarpathy) by Andrej
-  Karpathy
+- [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask): GPT-2
+- [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY): by Andrej Karpathy
+- [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE&t=1s&ab_channel=AndrejKarpathy) by Andrej Karpathy
 - [LLM Visualised](https://bbycroft.net/llm) an interactive/animated LLM visualisation
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685): LoRA
 - [manuelyhvh/nlp-with-transformers](https://github.com/manuelyhvh/nlp-with-transformers)
-- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth A. Aldo
-  Faisal Cheng Soon Ong
+- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth A. Aldo Faisal Cheng Soon Ong
+- [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300))
 - [Meet Claude: Anthropic’s Rival to ChatGPT](https://scale.com/blog/chatgpt-vs-claude)
 - [Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427):
 - [Mixture of Experts Explained](https://huggingface.co/blog/moe#what-is-a-mixture-of-experts-moe)
+- [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide)
 - [Multimodal Chain-of-Thought Reasoning in Language Models](https://github.com/amazon-science/mm-cot) by Amazon Science
 - [Natural Language Processing with Transformers Book](https://transformersbook.com/)
-- [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf): RNN
-  attention
-- [Neural Networks (incl Transformers)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB)
-  by 3Blue1Brown
-- [Neural Networks - From the ground up](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi):
-  YouTube series from 3Blue1Brown
+- [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf): RNN attention
+- [Neural Networks (incl Transformers)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&pp=iAQB) by 3Blue1Brown
+- [Neural Networks - From the ground up](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): YouTube series from 3Blue1Brown
 - [NLP Best Practices](https://github.com/microsoft/nlp-recipes)
 - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
 - [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 - [Papers with Code](https://paperswithcode.com/)
-- [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft)
-  by Huggingface
+- [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) by Huggingface
+- [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) by HuggingFace
 - [Post-processing in automatic speech recognition systems](https://blog.webex.com/engineering/post-processing-in-automatic-speech-recognition-systems/)
-- [Probabilities of Probabilities](https://www.youtube.com/watch?v=8idr1WZ1A7Q&list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp&pp=iAQB)
-  by 3Blue1Brown
+- [Probabilities of Probabilities](https://www.youtube.com/watch?v=8idr1WZ1A7Q&list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp&pp=iAQB) by 3Blue1Brown
 - [Prompt Engineering And Why It Matters To The AI Revolution](https://fourweekmba.com/prompt-engineering/)
 - [PyTorch Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) by PyTorch
 - [PyTorch DL Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) by DataCamp
 - [Q&A with GPT-Index](https://mcminis1.github.io/jekyll/update/2023/01/27/q_and_a_gptindex.html)
-- [Quantization Fundamentals with Hugging Face](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/?utm_campaign=huggingfaceC2-launch&utm_medium=headband&utm_source=dlai-homepage)
-  by Huggingface
-- [Quantization Fundamentals](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)
-  with Huggingface
+- [Quantization Fundamentals with Hugging Face](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/?utm_campaign=huggingfaceC2-launch&utm_medium=headband&utm_source=dlai-homepage) by Huggingface
+- [Quantization Fundamentals](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/) with Huggingface
 - [Retrieval-Augmented Generation (RAG) Made Simple & 2 How To Tutorials](https://spotintelligence.com/2023/10/19/retrieval-augmented-generation-rag/)
 - [RLHF Automatic Prompt Engineer for Stable Diffusion 2](https://crumbly.medium.com/rlhf-automatic-prompt-engineer-for-stable-diffusion-2-49464c70a6fe)
 - [Scaling Up AI Research to Production with PyTorch and MLFlow](https://databricks.com/session_na20/scaling-up-ai-research-to-production-with-pytorch-and-mlflow)
@@ -584,54 +563,38 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Semantic Search with S-BERT is all you need](https://medium.com/mlearning-ai/semantic-search-with-s-bert-is-all-you-need-951bc710e160)
 - [spaCy 101: Everything you need to know](https://spacy.io/usage/spacy-101)
 - [Stanford MLSys Seminars](https://www.youtube.com/@StanfordMLSysSeminars) on YouTube
-- [Super Easy Way to Get Sentence Embedding using fastText in Python](https://towardsdatascience.com/super-easy-way-to-get-sentence-embedding-using-fasttext-in-python-a70f34ac5b7c)
-  Medium Article
-- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961):
-  Switch transformer
+- [Super Easy Way to Get Sentence Embedding using fastText in Python](https://towardsdatascience.com/super-easy-way-to-get-sentence-embedding-using-fasttext-in-python-a70f34ac5b7c) Medium Article
+- [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/abs/2101.03961): Switch transformer
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes)
 - [Text Similarities : Estimate the degree of similarity between two texts](https://medium.com/@adriensieg/text-similarities-da019229c894)
 - [The 2024 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com)
-- [The Annotated GPT-2](https://amaarora.github.io/posts/2020-02-18-annotatedGPT2.html): A detailed explanation of the
-  GPT-2 model architecture.
-- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html): A detailed explanation of the
-  Transformer model architecture.
+- [The Annotated GPT-2](https://amaarora.github.io/posts/2020-02-18-annotatedGPT2.html): A detailed explanation of the GPT-2 model architecture.
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html): A detailed explanation of the Transformer model architecture.
+- [The Essence of Linear Algebra Videos](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB) and [as text](https://www.3blue1brown.com/topics/linear-algebra) YouTube playlist/course by 3Blue1Brown
 - [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 - [The Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/): A visual guide to the GPT-2 model architecture.
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/): A visual guide to the Transformer
-  model architecture.
-- [The Principles of Deep Learning Theory - An Effective Theory Approach to Understanding Neural Networks](https://arxiv.org/abs/2106.10165)
-  by Daniel A. Roberts and Sho Yaida
-- [The Transformer: Attention is All You Need](https://arxiv.org/abs/1706.03762): The original paper that introduced the
-  Transformer model.
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/): A visual guide to the Transformer model architecture.
+- [The Principles of Deep Learning Theory - An Effective Theory Approach to Understanding Neural Networks](https://arxiv.org/abs/2106.10165) by Daniel A. Roberts and Sho Yaida
+- [The Transformer: Attention is All You Need](https://arxiv.org/abs/1706.03762): The original paper that introduced the Transformer model.
 - [Thinking Like Transformers](https://srush.github.io/raspy/)
-- [Token Selection Strategies: Top-k, Top-p, and Temperature](https://peterchng.com/blog/2023/05/02/token-selection-strategies-top-k-top-p-and-temperature/):
-  by Peter Chng
-- [torchtune - Easily fine-tune LLMS using PyTorch](https://pytorch.org/blog/torchtune-fine-tune-llms/?utm_content=289842552&utm_medium=social)
-  on pytorch.com
+- [Token Selection Strategies: Top-k, Top-p, and Temperature](https://peterchng.com/blog/2023/05/02/token-selection-strategies-top-k-top-p-and-temperature/): by Peter Chng
+- [torchtune - Easily fine-tune LLMS using PyTorch](https://pytorch.org/blog/torchtune-fine-tune-llms/?utm_content=289842552&utm_medium=social) on pytorch.com
+- [Tracking Progress in Natural Language Processing](https://nlpprogress.com)
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 - [Transformers](https://towardsdatascience.com/transformers-141e32e69591)
 - [Turing-NLG: A 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/?fbclid=IwAR15kt7TcqFnU_G4_04hKlMg9at3bmdvbeQP5AbuVLgQ7hz8jYs0nqG9cKI)
-- [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?)
-  by Sebastian Raschka
+- [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?) by Sebastian Raschka
 - [Understanding text with BERT](https://blog.scaleway.com/understanding-text-with-bert/)
 - [Vaclav Kosar's Software & Machine Learning Blog](https://vaclavkosar.com/)
 - [Vector databases (4): Analyzing the trade-offs](https://thedataquarry.com/posts/vector-db-4/)
-- [What are the recent trends in machine learning, deep learning, and AI](https://twitter.com/rasbt/status/1767561783382872194):
-  bySebastian Raschka
+- [What are the recent trends in machine learning, deep learning, and AI](https://twitter.com/rasbt/status/1767561783382872194): bySebastian Raschka
 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
-- [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
-  by Chip Huyen
-- [Where does AI come from, and where is it heading?](https://databigandsmall.com/2023/10/04/where-does-ai-come-from-and-where-is-it-heading/) -
-  Data Big and Small
-- [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
-- [Curated papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
-- [Tracking Progress in Natural Language Processing](https://nlpprogress.com)
+- [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html) by Chip Huyen
+- [Where does AI come from, and where is it heading?](https://databigandsmall.com/2023/10/04/where-does-ai-come-from-and-where-is-it-heading/) - Data Big and Small
 - [Yann LeCun & Alfredo Canziani - DEEP LEARNING NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/NYU-DLSP21/)
-- [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) by HuggingFace
-- [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
-- [A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp)
-- [Curated papers/blogs, guides, and interviews with ML practitioners.](https://applyingml.com)
-- [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
+- [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
 
 # Resources
 
