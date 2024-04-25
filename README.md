@@ -519,6 +519,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [How Transformers work in deep learning and NLP: an intuitive introduction](https://theaisummer.com/transformer/)
 - [Hugging Face Transformers](https://huggingface.co/transformers/): A library of pre-trained models for NLP tasks.
 - [Implemented Deep Learning Projects](https://medium.com/coders-mojo/implemented-deep-learning-projects-aa18d5551046)
+- [Improving LoRA: Implementing Weight-Decomposed Low-Rank Adaptation (DoRA) from Scratch](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)
 - [Intro to Deep Learning and Generative Models Course](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51): by Sebastian Raschka
 - [Karpathy YouTube](https://www.youtube.com/@AndrejKarpathy) Karpathy videos
 - [Language Identification from Very Short Strings](https://machinelearning.apple.com/research/language-identification-from-very-short-strings)
@@ -543,7 +544,9 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Neural Networks - From the ground up](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi): YouTube series from 3Blue1Brown
 - [NLP Best Practices](https://github.com/microsoft/nlp-recipes)
 - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
+- [OLMo: Accelerating the Science of Language Models](https://arxiv.org/abs/2402.00838)
 - [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
+- [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework](https://arxiv.org/abs/2404.14619)
 - [Papers with Code](https://paperswithcode.com/)
 - [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) by Huggingface
 - [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) by HuggingFace
