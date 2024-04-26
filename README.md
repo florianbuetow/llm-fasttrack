@@ -602,7 +602,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 
 # Archive
 
-- [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) by DeepMind
 
 DeepMind's "Chinchilla" paper presents several key results and findings centered around the scaling laws in language model training:
 
