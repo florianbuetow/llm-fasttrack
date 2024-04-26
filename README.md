@@ -615,7 +615,7 @@ DeepMind's "Chinchilla" paper presents several key results and findings centered
 2) Fixed number of training tokens -> scale the model size with compute .
 3) Fixed compute -> scale the number of tokens with size of the model.
 
-Key takeaways:
+Key Takeaways:
 
 + Increasing the amount of training data is more efficient than increasing model size when both are constrained by compute resources.
 + It's more effective to train a slightly smaller model on more data rather than a larger model on fewer data:
