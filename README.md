@@ -527,6 +527,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask): GPT-2
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY): by Andrej Karpathy
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE&t=1s&ab_channel=AndrejKarpathy) by Andrej Karpathy
+- [LLM Numbers Everyone Should know](https://github.com/ray-project/llm-numbers)
 - [LLM Visualised](https://bbycroft.net/llm) an interactive/animated LLM visualisation
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685): LoRA
 - [manuelyhvh/nlp-with-transformers](https://github.com/manuelyhvh/nlp-with-transformers)
