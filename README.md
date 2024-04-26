@@ -513,6 +513,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165): The original paper that introduced the GPT-3 model.
 - [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427): RNNs
 - [How to Build a Semantic Search Engine With Transformers and Faiss](https://towardsdatascience.com/how-to-build-a-semantic-search-engine-with-transformers-and-faiss-dcbea307a0e8)
+- [How to Build & Understand GPT-7's Mind](https://www.youtube.com/watch?v=UTuuTTnjxMQ) Sholto Douglas & Trenton Bricken w/ Dwarkesh Patel
 - [How to Differentiate Between Scaling, Normalization, and Log Transformations](https://towardsdatascience.com/how-to-differentiate-between-scaling-normalization-and-log-transformations-69873d365a94?source=social.tw&gi=c244317ce38c)
 - [How to implement Q&A against your documentation with GPT3, embeddings and Datasette](https://simonwillison.net/2023/Jan/13/semantic-search-answers/)
 - [How to scale LLM workloads to 20B+ with Amazon SageMaker using Hugging Face and PyTorch FSDP](https://www.philschmid.de/sagemaker-fsdp-gpt)
@@ -585,7 +586,6 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Token Selection Strategies: Top-k, Top-p, and Temperature](https://peterchng.com/blog/2023/05/02/token-selection-strategies-top-k-top-p-and-temperature/): by Peter Chng
 - [torchtune - Easily fine-tune LLMS using PyTorch](https://pytorch.org/blog/torchtune-fine-tune-llms/?utm_content=289842552&utm_medium=social) on pytorch.com
 - [Tracking Progress in Natural Language Processing](https://nlpprogress.com)
-- [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 - [Transformers](https://towardsdatascience.com/transformers-141e32e69591)
 - [Turing-NLG: A 17-billion-parameter language model by Microsoft](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/?fbclid=IwAR15kt7TcqFnU_G4_04hKlMg9at3bmdvbeQP5AbuVLgQ7hz8jYs0nqG9cKI)
 - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html?) by Sebastian Raschka
@@ -598,6 +598,29 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Where does AI come from, and where is it heading?](https://databigandsmall.com/2023/10/04/where-does-ai-come-from-and-where-is-it-heading/) - Data Big and Small
 - [Yann LeCun & Alfredo Canziani - DEEP LEARNING NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/NYU-DLSP21/)
 - [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
+
+# Archive
+
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556
+
+DeepMind's "Chinchilla" paper presents several key results and findings centered around the scaling laws in language model training:
+
++ The paper argues that current models (in 2022) are significantly under-trained (meaning they have too many parameters for how long they've been trained, assuming the datasets were of high quality).
++ The paper discusses how to estimate the optimal model size and number of tokens for training dense autoregressive models.
++ In the paper these ideas were tested by training a 70B parameter model "Chinchilla" with different number of tokens and compare the performance of the models on a range of natural language reasoning and understanding tasks, demonstrating better performance than larger models that were under-trained for their size.
++ The authors suggest doubling the number of tokens approximately linear with the increase in the size of the model for a fixed amount of compute.
++ The paper presents three techniques for determining the number of tokens or the size of the model dependent on the amount of (fixed) available compute (FLOPS):
+1) Fixed model size -> scale the number of training tokens and with compute.
+2) Fixed number of training tokens -> scale the model size with compute .
+3) Fixed compute -> scale the number of tokens with size of the model.
+
+Key takeaways:
+
++ Increasing the amount of training data is more efficient than increasing model size when both are constrained by compute resources.
++ It's more effective to train a slightly smaller model on more data rather than a larger model on fewer data:
+1) Smaller models are more cost-effective during training 
+2) Smaller models are cheaper to run during inference
+3) A model with better performance on a range of tasks.
 
 # Resources
 
