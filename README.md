@@ -565,6 +565,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [RLHF Automatic Prompt Engineer for Stable Diffusion 2](https://crumbly.medium.com/rlhf-automatic-prompt-engineer-for-stable-diffusion-2-49464c70a6fe)
 - [Scaling Up AI Research to Production with PyTorch and MLFlow](https://databricks.com/session_na20/scaling-up-ai-research-to-production-with-pytorch-and-mlflow)
 - [Scattertext](https://github.com/JasonKessler/scattertext)
+- [Self-Attention clearly explained](https://mlspring.beehiiv.com/p/attention-need-self-attention-clearly-explained)
 - [Semantic search with embeddings: index anything](https://rom1504.medium.com/semantic-search-with-embeddings-index-anything-8fb18556443c)
 - [Semantic Search with S-BERT is all you need](https://medium.com/mlearning-ai/semantic-search-with-s-bert-is-all-you-need-951bc710e160)
 - [spaCy 101: Everything you need to know](https://spacy.io/usage/spacy-101)
