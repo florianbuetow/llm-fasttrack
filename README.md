@@ -477,6 +477,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Transformers
 - [Awesome Resource for NLP](https://github.com/pawangeek/Deep-NLP-Resources?fbclid=IwAR1h6CHbAB8gPZHazYGqi3bGbN1W9sumIJJFtQs4Nh1qfAw3-4Q2abwi75U)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): A curated list of resources for Large Language Models.
+- [Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws](https://arxiv.org/pdf/2401.00448)
 - [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom)
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)
 - [Broadcasting in Python (C1W2L15)](https://www.youtube.com/watch?v=tKcLaGdvabM): YT Video by Andrew Ng
