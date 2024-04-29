@@ -10,6 +10,13 @@ It's straightforward – notes, code, and links to useful resources.
 - **Resources:** Links to articles, papers, and tutorials that have cleared things up for me. No fluff, just the good
   stuff.
 
+## My Notebooks
+
+This is where I keep my experiments and code snippets.
+
+- [001-pytorch-tensors.ipynb](notebooks/001-pytorch-tensors.ipynb) - Basic experiments with PyTorch tensors.
+- [002-attention-mechanism.ipynb](notebooks/002-pytorch-neuron.ipynb) - Implementation of a single neuron from scratch and training it on the Iris dataset
+
 ## Why This Repo
 
 I needed somewhere to dump my brain as I dive into LLMs. Maybe it'll help someone else, maybe not. But it's helping me
