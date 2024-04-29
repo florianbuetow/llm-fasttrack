@@ -15,7 +15,7 @@ It's straightforward – notes, code, and links to useful resources.
 This is where I keep my experiments and code snippets.
 
 - [001-pytorch-tensors.ipynb](notebooks/001-pytorch-tensors.ipynb) - Basic experiments with PyTorch tensors.
-- [002-attention-mechanism.ipynb](notebooks/002-pytorch-neuron.ipynb) - Implementation of a single neuron from scratch and training it on the Iris dataset
+- [002-pytorch-neuron.ipynb](notebooks/002-pytorch-neuron.ipynb) - Implementation of a single neuron from scratch and training it on the Iris dataset
 
 ## Why This Repo
 
