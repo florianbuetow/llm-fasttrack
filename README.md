@@ -16,6 +16,8 @@ This is where I keep my experiments and code snippets.
 
 - [001-pytorch-tensors.ipynb](notebooks/001-pytorch-tensors.ipynb) - Basic experiments with PyTorch tensors.
 - [002-pytorch-neuron.ipynb](notebooks/002-pytorch-neuron.ipynb) - Implementation of a single neuron from scratch and training it on the Iris dataset
+- [003-pytorch-transformers.ipynb](notebooks/003-pytorch-transformers.ipynb) - Implementation of a transformer model from scratch
+- [004-pytorch-data-science-basics.ipynb](notebooks/004-pytorch-data-science-basics.ipynb) - Basic data science operations and ML with PyTorch
 
 ## Why This Repo
 
@@ -583,7 +585,7 @@ In this section I keep track of all the articles, papers, and tutorials I am rea
 - [Text Similarities : Estimate the degree of similarity between two texts](https://medium.com/@adriensieg/text-similarities-da019229c894)
 - [The 2024 MAD (ML, AI & Data) Landscape](https://mad.firstmark.com)
 - [The Annotated GPT-2](https://amaarora.github.io/posts/2020-02-18-annotatedGPT2.html): A detailed explanation of the GPT-2 model architecture.
-- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html): A detailed explanation of the Transformer model architecture.
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) [Alt](https://nlp.seas.harvard.edu/annotated-transformer/): A detailed explanation of the Transformer model architecture.
 - [The Essence of Linear Algebra Videos](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&pp=iAQB) and [as text](https://www.3blue1brown.com/topics/linear-algebra) YouTube playlist/course by 3Blue1Brown
 - [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
